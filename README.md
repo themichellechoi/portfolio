@@ -27,7 +27,7 @@ Here we considered the user to be either Korean or American depending on the cou
 
 </br>
 </br>
-<img width="1998" height="1998" alt="Overview" src="https://github.com/user-attachments/assets/7d9f5096-cc95-40ec-b348-fba09c47cde4" />
+<img width="1998" height="1998" alt="Overview" src="https://github.com/themichellechoi/portfolio-gaming-user/blob/main/Overview1.png?raw=true" />
 
 
 
